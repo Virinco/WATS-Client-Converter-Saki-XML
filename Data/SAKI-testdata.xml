@@ -1,0 +1,57 @@
+<Panel barcode="SN123456789" result="failed" startDate="01/10/2024" startTime="08:59:14" side="PN1" operator="Operator">
+  <Program name="Test Sequence" ver="" />
+  <Image barcode="N/A" id="1" result="failed">
+    <Results>
+      <FalseCalls>
+        <Reference designator="R1165" partNumber="4123456" package="4123456_R0603" description="Description text" />
+        <Reference designator="R137" partNumber="4123475" package="4123475_R1206" description="Description text" />
+        <Reference designator="C1164" partNumber="412346" package="412346_C0603" description="Description text" />
+        <Reference designator="C1164" partNumber="4123254" package="4123254_C0603" description="Description text" />
+        <Reference designator="M101" partNumber="4123478" package="4123478_SOT223" description="Description text" />
+        <Reference designator="DZ1153" partNumber="4123455" package="4123455_SOD323" description="Description text" />
+        <Reference designator="C123" partNumber="4123471" package="4123471_C1206" description="Description text" />
+        <Reference designator="C123" partNumber="4123471" package="4123471_C1206" description="Description text" />
+        <Reference designator="C1161" partNumber="4123471" package="4123471_C0603" description="Description text" />
+        <Reference designator="C1161" partNumber="4123471" package="4123471_C0603" description="Description text" />
+        <Reference designator="M103" partNumber="4123444" package="4123444_SOT32" description="Description text" />
+        <Reference designator="D112" partNumber="4123567" package="4123567_SOD323" description="Description text" />
+        <Reference designator="C1162" partNumber="4123663" package="4123663_C0805" description="Description text" />
+        <Reference designator="C1162" partNumber="4123663" package="4123663_C0805" description="Description text" />
+        <Reference designator="C1165" partNumber="4123663" package="4123663_C0805" description="Description text" />
+        <Reference designator="C1165" partNumber="4123663" package="4123663_C0805" description="Description text" />
+        <Reference designator="IC1155" partNumber="4123321" package="4123321_SOT89" description="Description text" />
+        <Reference designator="C102" partNumber="4123321" package="4123321_C1812" description="Description text" />
+        <Reference designator="C152" partNumber="4123321" package="4123321_C1812" description="Description text" />
+        <Reference designator="C152" partNumber="4123321" package="4123321_C1812" description="Description text" />
+        <Reference designator="IC1156" partNumber="4123747" package="4123747_SOT89" description="Description text" />
+        <Reference designator="IC1157" partNumber="4322345" package="4322345_LQFP32" description="Description text" />
+        <Reference designator="IC1157" partNumber="4322345" package="4322345_LQFP32" description="Description text" />
+      </FalseCalls>
+      <Failed>
+        <Reference designator="C1164" partNumber="4326543" package="4326543_C0603" description="Description text" />
+        <Reference designator="C123" partNumber="4326543" package="4326543_C1206" description="Description text" />
+        <Reference designator="C1161" partNumber="4326566" package="4326566_C0603" description="Description text" />
+        <Reference designator="M103" partNumber="4326532" package="4326532_SOT32" description="Description text" />
+        <Reference designator="C1162" partNumber="4326588" package="4326588_C0805" description="Description text" />
+        <Reference designator="C1165" partNumber="4326588" package="4326588_C0805" description="Description text" />
+      </Failed>
+    </Results>
+  </Image>
+  <Image barcode="N/A" id="2" result="passed">
+    <Results>
+      <FalseCalls>
+        <Reference designator="R120" partNumber="4326599" package="4326599_R1206" description="Description text" />
+        <Reference designator="Q100" partNumber="4326100" package="4326100_SOT23" description="Description text" />
+      </FalseCalls>
+    </Results>
+  </Image>
+  <Image barcode="N/A" id="3" result="passed">
+    <Results>
+      <FalseCalls>
+        <Reference designator="IC1101" partNumber="4326101" package="4326101_SO16" description="Description text" />
+        <Reference designator="IC1157" partNumber="4326102" package="4326102_LQFP32" description="Description text" />
+        <Reference designator="IC1157" partNumber="4326103" package="4326103_LQFP32" description="Description text" />
+      </FalseCalls>
+    </Results>
+  </Image>
+</Panel>
