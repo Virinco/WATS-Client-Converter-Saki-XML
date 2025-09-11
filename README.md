@@ -9,7 +9,7 @@
 
 ## Download
 
-You can download the latest released version of the converter [here](https://github.com/Virinco/WATS-Client-Converter-Saki-XML/releases/latest). See the Custom Converter section in the [WATS Client Installation Guide](https://wats.com/download) for your version of the WATS Client for how to install a converter.
+See the Custom Converter section in the [WATS Client Installation Guide](https://wats.com/download) for your version of the WATS Client for how to install a converter.
 
 ### Test-sofware configuration
 
