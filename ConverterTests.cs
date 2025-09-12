@@ -15,6 +15,7 @@ namespace Saki
         public void SetupClient()
         {
             SetupAPI(null, "location", "purpose", true);
+            RegisterClient("your WATS instance URL", "username", "password/token");
             InitializeAPI(true);
         }
 
