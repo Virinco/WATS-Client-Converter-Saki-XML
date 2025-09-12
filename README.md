@@ -1,5 +1,6 @@
 # WATS Converter - Saki
 
+A WATS Client converter plugin for importing test data from Saki test system to WATS.
 
 ## Getting Started
 
