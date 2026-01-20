@@ -79,7 +79,7 @@ Contact Virinco support, and include the wats.log file: [Where to find the wats 
 * Issues with the converter or suggestions for improvements can be submitted as an issue here on GitHub.
 * Ask questions about WATS in the [WATS Community Help](https://virinco.zendesk.com/hc/en-us/community/topics/200229613)
 * Suggestions for the WATS Client itself or WATS in general can be submitted to the [WATS Idea Exchange](https://virinco.zendesk.com/hc/en-us/community/topics/200229623)
-* Sensitive installation issues or other sensitive questions can be sent to [support@virinco.com](mailto://support@wats.com)
+* Sensitive installation issues or other sensitive questions can be sent to [support@wats.com](mailto://support@wats.com)
 
 ## License
 
